@@ -1,0 +1,22 @@
+body {
+  font-family: courier;
+  color: white;
+  background-color: black;
+  background-image: url(https://wallpaper-house.com/data/out/8/wallpaper2you_252535.png);
+  postion: fixed;
+}
+
+table .artist {
+  border-style: solid;
+  color: white;
+}
+
+#columns {
+  border-style: solid;
+  color: white;
+}
+
+.logo {
+  position: fixed;
+  top: 10px;
+}
